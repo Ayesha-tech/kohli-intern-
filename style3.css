@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wraper{
+    width:1170px;
+    margin: auto;
+    color: purple;
+    }
+    header{
+        /* background-color: rgb(46, 44, 44); */
+        background-image: url(https://source.unsplash.com/500x500/?nature,water);
+        background-size: cover;
+        height: 140vh;
+        -webkit-background-size:cover;
+        background-position: auto auto;
+        position: relative;
+        text-align: center;
+          }
+          .nav-area{
+              float:right;
+              list-style:none;
+              margin-top:5px;
+              }
+              .nav-area button a{
+                  color:black;
+                  text-decoration:none;
+                  padding:10px 10px;
+                  font-family:poppins;
+                  font-size:24px;
+                  border-radius: 50%;
+              }
+              .nav-area button a:hover{
+                  background:purple;
+                /* color:#333;          */
+                 }
+                .logo img{
+                    width:80px;
+                    float:left;
+                    height:auto;
+                    border-radius: 50%;
+                }
+                .welcome-text{
+                    position:absolute;
+                    width:500px;
+                    height:400px;
+                    margin:25% 20%;
+                    text-align:center;
+                }
+                .welcome-text h2{
+                    padding-top: 30px;
+                    /*text-align:auto;*/
+                    color:purple;
+                    text-align: center;
+                    text-transform:uppercase;
+                    font-size:60px;
+                }
+                .welcome-text h3{
+                    text-align: center;
+                    color: purple;
+                    font-size: 50px;
+                    padding-top: 5px;
+
+                }
+                .welcome-text a{
+                    border:1px solid white;
+                   padding:10px 25px;
+                    text-decoration:none;
+                    text-transform:uppercase;
+                    font-size:14px;
+                    text-align: center;
+                    margin-top: 5px;
+                    display: inline-block;
+                    color:purple;
+                }
+                .logo{
+                    border-radius: 50%;
+                }
+                .online ul{
+                    /* padding-top: 30px; */
+                    text-align: auto;
+                    font-size: 25px;
+                    color: purple;
+                    margin-top: 250px;
+                    margin-left:100px;
+                    padding-bottom: 15px;
+                    display: inline-block;
+
+                }
+                /*.slider{*/
+                    /*max-width: 600px;*/
+                    /*margin-top: 250px;*/
+                    /*margin-left: 450px;*/
+                    /*margin-right: 250px*/
+                    /*float:auto;*/
+                    /*padding-top: 10px;*/
+                    /*width:450px;*/
+                     /*padding-right: 150px; */
+                     /*padding-left: 160px; */
+                    /*margin-left: 380px;*/
+                    /*height: 400px;*/
+                    /*background:url(Kohlil.png);*/
+                    /*animation: slide 10s infinite ;*/
+                /*}*/
+                /*@keyframes slide{*/
+                    /*35%{*/
+                        /*background:url(webdes.jpg);*/
+                    /*}70%{*/
+                         /*background:url(marketing.jpg);*/
+                    /*}100%{*/
+                        /*background:url(webdev.png);*/
+                    /*}100%{*/
+                        /*background:url(webdes.jpg);*/
+                    /*}*/
+                /*}*/
+                .card-deck-wrapper{
+                    margin:10px;
+                    float:left;
+                    width:100px;
+                    height:150px;
+                }
+                .mySlides {display:none;
+                    margin: auto;
+                    padding-top: 200px;
+                    margin-left: 400px;
+
+                }
+               .online button a:hover{
+                    background: purple;
+
+                }
+                .online button a{
+                    color:black;
+                    text-decoration:none;
+                    padding:10px 10px;
+                    font-family:poppins;
+                    font-size:24px;
+                    border-radius: 60%;
+                }
+                body{
+                    background:black;
+                    text-align: center;
+                    color: aqua;
+                    font-size: 18px;
+                }
+.col-sm-4{
+            border:1px solid black;
+            padding:5px;
+            }
+.content{
+    color:white;
+}                
+                
+                .footer_menu_list {
+                    margin: 20px;
+                    padding: 0;
+                    list-style: none;
+                }
+                
+                .footer_menu_list li {
+                    margin: 20px;
+                    padding: 0;
+                }
+                
+                 #bottom .footer_menu_list li a {
+                    color: aqua;
+                    text-align: center;
+                    font-weight: normal;
+                    text-decoration: none;
+                }
+                
+                #bottom .footer_menu_list li a:hover {
+                    color: #999999;
+                    text-decoration: underline;
+                    text-align: center;
+                } 
+                #copyright {
+                    padding: 20px;
+                    text-align: center;
+                    color: aqua;
+                }
+                
+                #copyright a {
+                    color: aqua;
+                    text-align: center;
+                    text-decoration: underline;
+                    font-weight: normal;
+
+                                    }
+                #copyright a:hover {
+                    color: aqua;
+                }
+                /* Footer */
+                #footer-wrap {
+                    width: 860px;
+                    height: 64px;
+                    margin: 10px auto;
+                    text-align: center;
+                }
+                
+                #footer {
+                    margin: 10px auto;
+                    height: 64px;
+                    min-height: 64px;
+                    padding: 10px;
+                    font-size: 12px;
+                    text-align: center;
+                }
+                .contactus_section{
+                    text-align: center;
+                }

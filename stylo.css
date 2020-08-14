@@ -1,0 +1,115 @@
+.container{
+	font-size: 25px;
+	/*padding-top: 10px;*/
+	background-color: white;
+	/*border:1px solid black;*/
+
+}
+.navbar navbar-fixed-top{
+	background-color: white;
+}
+.navbar-brand{
+	font-size: 25px;
+	color: purple;
+	padding-top: 0;
+}
+*{ /* background-color: black;*/
+    margin: 0;
+    padding: 0;
+}
+body{
+         /*background-color: rgb(46, 44, 44); */
+        
+        background-image: url(https://source.unsplash.com/500x500/?nature,water);
+        background-size: cover;
+        height: 140vh;
+        -webkit-background-size:cover;
+        background-position: auto auto;
+        position: relative;
+        text-align: cent
+    }
+.welcome-text{
+	font-family: sans-serif;
+	text-align: center;
+	/*font-weight: bold;*/
+	font-size: 80px;
+	color: purple;
+	/*position: absolute;*/
+	text-transform: uppercase;
+	padding-top: 200px;
+}    
+.online ul{
+           /* padding-top: 30px; */
+           text-align: center;
+           font-size: 25px;
+           color: purple;
+           /*margin-top: 150px;*/
+           margin-left:350px;
+           padding-bottom: 15px;
+           display: inline-block;
+
+                }
+.online button a:hover{
+           background: purple;
+
+                }
+.online button a{
+          text-decoration:none;
+          padding:0 10px 10px 10px;
+          font-family:poppins;
+          font-size:24px;
+          border-radius: 60%;
+                }
+.mySlides {display:none;
+          margin: auto;
+          padding-top: 100px;
+          margin-left: 400px;
+          padding-bottom: 50px;
+
+           }
+.col-md-4{
+	border:3px solid black;
+	padding :5px;
+	color: black;
+	}  
+.caption{
+	color: black;
+	font-size: 20px; 
+}  
+.alumini{
+	text-align: center;
+	color: aqua;
+}       
+.alumini ul li{
+	margin-top: 40px;
+	padding-bottom: 40px;
+	float:left;
+	padding-left: 20px;
+	padding-right: 10px;
+	text-decoration: none;
+}
+alumini li{
+	text-decoration: none;
+}
+.inst{
+	text-align: center;
+	color: aqua;
+}
+/*.link_section{*/
+	/*text-align: center;*/
+	/*padding-top: 30px;*/
+	/*margin-top: 20px;*/
+	/*color: white;*/
+	/*background-color: black;*/
+/*}*/
+/*.link_section h3{*/
+	/*text-align: center;*/
+	/*color: white;*/
+/*}*/
+     
+.contactus_section{
+                    text-align: center;
+                    color: white;
+                    font-weight: bold;
+                    background-color: white;
+                }
